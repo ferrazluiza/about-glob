@@ -1,0 +1,74 @@
+00:22:44	Natalia Mazotte:	Obrigada pela lembrança, Meyrele
+00:26:45	Amanda Audi:	Natalia, é para te enviar os dados do pedido de informação?
+00:27:03	Luiza Ferraz:	ela deixou um modelinho no blackboard, amanda
+00:27:12	Luiza Ferraz:	vc consegue acessar?
+00:29:44	Reinaldo Chaves:	A Lei Geral de Proteção de Dados Pessoais estabelece em seu art. 4o, II, a, que suas disposições não se aplicam ao tratamento de dados pessoais realizado para finsexclusivamente jornalísticos. Hoje os pedidos no FalaBR já inserem essas opções de pedidos abaixo. Creio por exemplo então que fazer um pedido anônimo tornaria mais difícil ainda esse artigo ser cumprido
+00:30:06	Reinaldo Chaves:	Gostaria de ter a minha identidade preservada neste pedido, em atendimento ao princípio constitucional da impessoalidade e, ainda, conforme o disposto no art. 10, § 7º da Lei nº 13.460/2017.    Estou ciente de que, com a identidade preservada somente a CGU terá acesso aos meus dados pessoais, ressalvadas as exceções previstas nos parágrafos 3º e 4º, do art. 31 da Lei nº 12.527/2011 e no art. 58 do Decreto nº 7.724/2012. Logo, o órgão destinatário do pedido não terá condições de contatar-me em caso de dúvidas ou necessidade de esclarecimentos adicionais. Bem como, estou ciente que a Ouvidoria-Geral da União ficará impossibilitada de executar ações de mediação nos requerimentos que chegarem a ela em nível recursal.    Estou ciente de que com a identidade preservada o órgão destinatário não poderá atender a pedidos de informação pessoal, uma vez que não terá como confirmar minha identidade.
+00:30:17	Reinaldo Chaves:	Entendo que a não preservação da minha identidade poderá ferir o princípio constitucional da impessoalidade e prejudicar o atendimento da minha solicitação de informação. Declaro, para os devidos fins de direito e sob as penas da lei, que o conteúdo do pedido realizado poderá servir de embasamento para eventual manifestação de ouvidoria e/ou denúncia, conforme estabelecido na Lei nº 13.460/2017.
+00:30:56	Reinaldo Chaves:	Tem ocorrido o contrário pelo que sei...
+00:32:16	Carina Dourado:	Pois é, mas tem casos de processos que pegaram todos os pedidos de uma pessoa feitos pela LAI para diversos órgãos para provar o fishing
+00:33:06	Carina Dourado:	Conhecendo o governo federal, dá um pouco de medo de pedir anonimato com a CGU tendo acesso a quem pediu
+00:33:53	gabriela caesar:	você acha que servidores públicos podem ser prejudicados por pedir LAI?
+00:34:11	Luiza Ferraz:	foi uma nota de posicionamento pra imprensa rs
+00:39:10	Jamile Santana:	Meu companheiro fez um pedido de LAI solicitando acesso aos e-mails do Bolsonaro por meio de endereço oficial da presidência (pra testar limites hehehe). Eles negaram (obvio rs), citaram a Constituição e a Declaração de Direitos Humanos, mas não indicaram se o e-mail tinha sigilo estabelecido por decreto. Dias depois um monte de militar começou a entrar no Linkedin do meu companheiro.
+00:41:53	Carina Dourado:	Surreal, Jamile
+00:43:58	Lara Deus:	nossa, que medo
+00:45:21	Jamile Santana:	Shirlei, um macete que eu uso é preencher o endereço,cep e telefone da própria prefeitura, por exemplo.
+00:45:56	Bruno Morassutti:	Adorei a ideia, Jamile
+00:52:36	Carina Dourado:	Esse dado é mais fácil achar pelo Grupo Gay da Bahia, que faz esse estudo tem tempo
+00:52:44	Carina Dourado:	Mais eficiente que o governo
+00:52:45	gabriela caesar:	Sim
+00:52:49	Tode:	Perdão que interrompi do nada. Acabei de pegar meu jantar e perdi um pedaço. Me desculpem.
+00:53:50	Reinaldo Chaves:	Padrão que uso para pedir formato aberto: Requisito que sejam fornecidas em formato aberto (planilha em *.xls *.csv,*.ods, etc), nos termos do art. 8o, §3o, III da Lei Federal 12.527/11 e art. 24, V da Lei Federal 12.965/14
+00:54:17	Carina Dourado:	Reinaldo, e geralmente eles mandam assim? Ou gostam é do PDF mesmo?
+00:54:44	Érika Yukari:	alguem esta anotando os comentarios?
+00:55:05	Luiza Ferraz:	to anotando alguns
+00:55:25	Reinaldo Chaves:	PDF é mais fácil de mandar em algumas instituições e/ou sabem que vai ficar mais difícil para usar a informação se for PDF
+00:55:40	Érika Yukari:	hehe blz idem aqui
+01:18:18	Larissa Sayuri Futino Castro Dos Santos:	Eu trocaria o nome, data de nasc e CPF por id de atendimento. 
+E acho que as datas de nasc e falecimento podem ser simplificadas para mês e ano.
+01:18:33	Larissa Sayuri Futino Castro Dos Santos:	Vai ser uma planilhão pesado, né?
+01:19:22	Bruno Morassutti:	não é maior que o de empresas ou doações eleitorais, por exemplo
+01:20:58	Kaluan Bernardo:	Essa pauta das armas poderia ser resolvida se os dados ficassem mais agregados ne? Saber quais bairros ou cidades têm mais armas registradas mas não as casas
+01:26:58	Jamile Santana:	Aqui em Mogi Érika, me mandaram o número de inscrição do funcionário na prefeitura, por exemplo. Dai eu conseguia rastrear os dados dele de salário nas planilhas de orçamento, por exemplo.
+01:27:32	Luiza Ferraz:	eu tenho um templatezinho pra essas coisas, erika
+01:27:35	Luiza Ferraz:	coloco sempre no fim
+01:28:04	Luiza Ferraz:	Requisito que as informações sejam fornecidas em formato aberto (planilha em *.xls *.csv,*.ods, etc), nos termos do art. 8º, §3º, III da Lei Federal 12.527/11 e art. 24, V da Lei Federal 12.965/14. Devo esclarecer que arquivos em formato *.pdf não são abertos (vide o item 6.2 da Cartilha Técnica para Publicação de Dados Abertos no Brasil http://dados.gov.br/pagina/cartilha-publicacao-dados-abertos). Caso parte das informações não possa ser fornecida, favor justificar e enviar o restante e se o pedido demandar trabalho adicional, favor justificar.
+01:28:12	Luiza Ferraz:	mas precisa acrescentar alguns pontos de hj, vou ate colocar rs
+01:28:53	Reinaldo Chaves:	Achados e Pedidos também tem vários pedidos já feitos: https://www.achadosepedidos.org.br/
+01:32:18	Talita Burbulhan:	DÚVIDA: Eu fiquei curiosa para saber mais sobre quem são as/os/es servidoras/es/ies públicos que exercem a tarefa de responder aos pedidos de acesso à informações. São pessoas com alguma formação específica? Elas são contratadas especificamente para responder perguntas ou podem acumular outras funções?
+01:33:07	Luiza Ferraz:	como eu chego a ese site mesmo?
+01:33:26	Luiza Ferraz:	ah ta no slide
+01:33:34	Jamile Santana:	Todo órgão deve divulgar os pedidos já feitos? Ou isso depende de regulamentação específica?
+01:33:41	Reinaldo Chaves:	http://www.consultaesic.cgu.gov.br/busca/SitePages/principal.aspx
+01:36:35	Jamile Santana:	Aqui em Mogi consegui saber que a cidade sequer tem fluxo pra atender pedidos de acesso com essas perguntas Talita. E a partir dai conseguimos um diálogo com a prefeitura pra regulamentar a lei
+01:38:01	Talita Burbulhan:	Nossa Jamile!
+01:38:56	Larissa Sayuri Futino Castro Dos Santos:	eu achava que eram profissionais de tecnologia tipo analistas de banco de dados - hahahaha
+eu e a minha bolha
+01:41:27	gabriela caesar:	pedido que fiz em 2019 com “o meu juridiquês” https://docs.google.com/document/d/1ATos-MHQu7pjFHfbwTKz44_NzN1TGDwtIdwxo6lwWM4/edit?usp=sharing
+01:41:54	Jamile Santana:	Que legal!
+01:42:20	Talita Burbulhan:	Boa Gabi
+01:45:21	Érika Yukari:	muito massa, gabi
+01:45:43	Érika Yukari:	deu certo?
+01:46:14	gabriela caesar:	Mandei para todos os ministérios e a maioria respondeu ou melhorou muito o site
+01:46:57	gabriela caesar:	https://g1.globo.com/politica/noticia/2020/02/16/75percent-dos-orgaos-federais-descumprem-regras-ou-nao-preenchem-relatorios-sobre-publicacao-de-agendas-revela-cgu.ghtml
+01:52:28	Talita Burbulhan:	Bruno, pergunta meio aleatória. Eu fiquei "encantada" com as perguntas exploratórias, rsrs, pq na minha inexperiência de fazer pedidos não achava que podia fazer isso (saber mais sobre o dado, quantas pessoas estão responsáveis por ele, contato da equipe responsável pela transparência...), mas faz muito sentido. Vc tem algum texto/conteúdo/relato que aborde mais esse aspecto?
+01:55:59	Jamile Santana:	Aqui em Mogi usaram pra negar a lista de devedores PJ de ISS e IPTU
+01:58:09	Reinaldo Chaves:	O Ministério do Turismo que está usando o argumento de privacidade de empresas com a  LGPD
+02:02:08	Victor Farias:	Obrigado pela resposta, Bruno!
+02:02:39	Bruno Morassutti:	Talita, infelizmente não tenho. Mas a gente vai aprendendo na prática
+02:02:52	Talita Burbulhan:	:)
+02:07:27	Reinaldo Chaves:	A Abraji está preparando ações de advocacy no segundo semestre sobre sigilos e a LGPD
+02:10:51	Reinaldo Chaves:	Nessa newsletter contamos um pouco sobre pedidos e usos do SEI: https://investigadora.substack.com/p/12-fraudes-na-educacao-e-na-saude
+02:12:40	Bianca Muniz:	obrigada!!!
+02:12:40	Jamile Santana:	Bruno sempre rende!
+02:12:53	Victor Farias:	Muito obrigado, Bruno!!!
+02:12:57	Karen Couto:	tem uma jornalista no Paraná que usava os dados do Beto Richa para solicitar dados do governo via Lai
+02:13:14	gabriela caesar:	boa noite!!
+02:13:16	Ingridy Silva:	Boa noite!
+02:13:16	Juliana Ribeiro:	Boa noite
+02:13:16	Karen Couto:	(esqueci o nome dela)
+02:13:16	Jéssica Avelar:	Obrigada, boa noite!
+02:13:18	Alessandro Feitosa Jr:	boa noite!
+02:13:24	Karen Couto:	boa noite
+02:13:26	Carina Dourado:	Tchau, gente

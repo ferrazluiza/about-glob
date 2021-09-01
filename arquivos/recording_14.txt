@@ -1,0 +1,99 @@
+00:04:29	Talita Burbulhan:	Oie, boa noite!
+00:09:33	Jamile Santana:	Boa noite =)
+00:09:57	Victor Farias:	boa noite!
+00:09:59	Kelly Pavan:	Boa noite!
+00:10:01	Layane Serrano:	Boa noite ;)
+00:10:52	gabriela caesar:	Boa noite!
+00:11:35	Carina Dourado:	Oi, gente!
+00:11:42	Renan Cavalcante:	Boa noite!
+00:22:23	Talita Burbulhan:	nao
+00:26:42	Luiza Ferraz:	link para o código no colab se alguém quiser testar: https://colab.research.google.com/drive/1oVmxFnWjv-UdpbqROFia6hFPaJO5uxuT?usp=sharing
+00:29:29	Jéssica Avelar:	O link do colab: https://colab.research.google.com/drive/1R926NWjhtWxa1y-BCpKzj_UxMKi8g3hP?usp=sharing
+00:31:53	Talita Burbulhan:	Aqui a apresentação se quiserem ler com calma
+00:40:40	gabriela caesar:	muito caprichado! :)
+00:45:07	Ingridy Silva:	Para quem quiser dar uma olhada, aqui atá o trabalho do grupo 4: https://colab.research.google.com/drive/1b8KNV1EUkBY2eZlyr4mQ9M7kgCw4pPM8?usp=sharing
+00:45:47	Talita Burbulhan:	Massa Ingridy :)
+00:45:57	Luiza Ferraz:	normal aqui
+00:45:59	Luiza Ferraz:	vc ouve a gente?
+00:46:17	Luiza Ferraz:	nem da pra ouvir o fundo direito, isa (:
+00:46:17	gabriela caesar:	tem audio ta bom, isa
+00:46:19	Victor Farias:	escutando tudo claro, isa
+00:46:27	gabriela caesar:	isso
+00:46:48	erika y. :	melhor esperar ele mesmo
+00:47:36	Alessandro Feitosa Jr:	ela está falando
+00:47:37	Luiza Ferraz:	acho que vc contionua sem nos ouvir
+00:47:40	Carina Dourado:	A gente te ouve, prof
+00:59:42	Amanda Audi:	Desculpa, gente, esqueci o mic aberto
+01:00:01	Luiza Ferraz:	acontece :))
+01:04:00	Larissa Sayuri Futino Castro Dos Santos:	adorei os emojis
+01:04:25	gabriela caesar:	também!!
+01:09:24	Kelly Pavan:	Fofinho, né? Graças ao Lucas!!! =)
+01:17:10	Carina Dourado:	Esse quiz é bonzinho, te dá chance!
+01:17:22	Luiza Ferraz:	kkkk
+01:17:46	Jamile Santana:	O legal dele é que a gente pode aprender com o código e com as perguntas também. Serviço de utilidade 😂
+01:18:10	isabelafleischmann:	Verdade, kkkk. Mto bom!
+01:18:24	Talita Burbulhan:	ficou bem legal
+01:19:40	gabriela caesar:	o quiz original ta aqui, pessoal https://factfulnessquiz.com/
+01:19:51	Carina Dourado:	Gente, tem até site!
+01:20:26	Carina Dourado:	Ah, é o original! Que legal heheh
+01:20:36	Luiza Ferraz:	não mostrou nao
+01:21:42	Jamile Santana:	Gabi, compartilha o de vocês também, please? Acho que é legal ler e aprender com os comentários
+01:22:13	gabriela caesar:	Opa, claro! Tá aqui https://github.com/gabrielacaesar/master-insper-dados-automacao-data-storytelling/blob/main/python_exercicio_19ago2021/trabalho_final_grupo_schirlei_tode_gabriela.ipynb
+01:22:15	Luiza Ferraz:	acho melhor agr
+01:22:25	Victor Farias:	beleza
+01:22:32	Renan Cavalcante:	feshow!
+01:23:51	Jamile Santana:	Obrigada Gabi!
+01:25:38	gabriela caesar:	@Jamila, imagina! To subindo os meus exercícios sempre por lá :)
+01:27:07	Jamile Santana:	Eu tô tentando seguir seu perfil, mas não sei mexer no gitgub😂 Coloquei uma estrela, não sei se é isso🤔
+01:36:50	Carina Dourado:	Teve um dia que estava procurando algum manual (não lembro do que) e caí no GitHub da Gabi
+01:43:43	Juliana Ribeiro:	Eu também encontrei a Gabriela na busca por informações sobre jornalismo de dados
+01:44:20	gabriela caesar:	oi?? eu?/
+01:54:11	Carina Dourado:	A gente estava falando de vc, acho que vc não estava na sala, Gabi ahaha
+01:54:43	gabriela caesar:	Acabei de conseguir um print (emocionante) desse chat. Eu estava fora da sala no intervalo ;)
+01:54:52	gabriela caesar:	Valeu, Carina!
+02:03:16	Talita Burbulhan:	Álvaro, quando eu rodo o código aparece isto:Qual seu nome? TALITAOlá, <built-in method strip of str object at 0x7f0530ebceb0>! Como vai?
+02:03:34	Alessandro Feitosa Jr:	precisa fechar .strip()
+02:03:37	Alessandro Feitosa Jr:	os parenteses
+02:08:46	Alessandro Feitosa Jr:	desculpe, Tode
+02:08:49	Alessandro Feitosa Jr:	começamos a falar meio juntos
+02:09:55	Tode:	Chegou com atraso aqui. Eu que peço desculpas. Tranquilo.
+02:24:08	Host Insper:	https://bit.ly/insper-pc-aula3
+02:27:07	Alessandro Feitosa Jr:	GMT20210806-222707_Recording.txt
+02:27:10	Alessandro Feitosa Jr:	se alguém precisar
+02:33:29	Jamile Santana:	ele só entende nessa estrutura de linha em arquivos txt?
+02:33:34	gabriela caesar:	A estrutura de repetição tb é muito útil para, por exemplo, quando você tem mil arquivos e você quer carregar todos. Ou, por exemplo, para dar o download de vários arquivos ao mesmo tempo etc Acessar várias páginas da internet e coletar algum dado...
+02:44:02	Alessandro Feitosa Jr:	\t = tab
+02:44:08	Alessandro Feitosa Jr:	\n = quebra de linha
+02:45:51	Reinaldo Chaves:	Ferrei o padrão :)
+02:48:14	Luiza Ferraz:	o meu começou com o da jamile
+02:48:36	Luiza Ferraz:	ahh otimo
+02:50:00	Lara Deus:	len = lenght? tipo, tamanho da lista?
+02:50:08	Alessandro Feitosa Jr:	isso aí, Lara
+02:50:19	Lara Deus:	valeu!!
+03:01:50	Tiago Aguiar:	Então é sempre for []
+03:01:52	Tiago Aguiar:	ops
+03:02:10	Tiago Aguiar:	For [variavel que to inventando] in [arquivo ou variável já definida]
+03:04:01	Bernardo Vianna:	Isso, Tiago -> for [variável que to inventando] in [qualquer coisa q possa ser iterada, ou seja, lida elemento por elemento]
+03:04:09	gabriela caesar:	for i in notas: print(i)
+03:04:18	gabriela caesar:	i será cada item dentro de notas
+03:04:36	gabriela caesar:	Eu gosto de usar i, gente
+03:05:23	Tiago Aguiar:	é semanticamente mais intuitivo, Gabi :)
+03:06:50	Bernardo Vianna:	Alessandro, o q é printado já está salvo em uma variável
+03:07:21	Bernardo Vianna:	Vc diz salvar tudo o q aparece na tela depois dos prints?
+03:10:10	Luiza Ferraz:	aqui tb
+03:12:19	Bernardo Vianna:	Luiza, é q a contagem começa do 0... Primeiro elemento é 0, segundo é 1, terceiro é 2...
+03:12:37	Luiza Ferraz:	show!
+03:15:04	gabriela caesar:	aeee
+03:15:18	Talita Burbulhan:	kkkk
+03:15:28	Reinaldo Chaves:	Vai tirar o trampo da Gabriela
+03:15:37	Luiza Ferraz:	maquinas tirando empregos
+03:15:42	Jamile Santana:	😂
+03:15:50	Lara Deus:	hahahahahahha
+03:15:58	Lara Deus:	robôs, tsc tsc
+03:17:14	Luiza Ferraz:	simmm por favor
+03:17:37	Bernardo Vianna:	Lembrem q podem me usar. Só marcar na agenda em https://calendly.com/bernardovianna/monitoria-mjda
+03:17:38	gabriela caesar:	Boa note
+03:17:39	gabriela caesar:	noite
+03:17:40	Jéssica Avelar:	Boa noite!
+03:17:48	Vinícius Marques:	Boa noite!!
+03:17:49	Victor Farias:	obrigado!!

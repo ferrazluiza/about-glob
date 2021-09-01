@@ -1,0 +1,121 @@
+00:02:07	Jamile Santana:	boa noite =)
+00:02:21	Vinícius Marques:	Boa noite!!
+00:02:46	isabelafleischmann:	Noite!
+00:02:57	Lara Deus:	olá, boa noite
+00:02:59	Carina Dourado:	Oi, gente, boa noite!
+00:03:02	Jéssica Avelar:	Boa noite
+00:04:25	Talita Burbulhan:	oi pessoal! boa noite :D
+00:04:32	Renan Cavalcante:	Boa noite, pessoal!
+00:04:36	gabriela caesar:	Boa noite!
+00:04:58	JULIANA RIBEIRO:	Boa noite!
+00:10:43	Lara Deus:	ok! acho que é o nosso
+00:11:29	Jamile Santana:	O nosso era o cinco Lara. Já entregamos =)
+00:11:38	Jamile Santana:	A não, o nosso era o cinco em outra aula hahahah
+00:14:13	Lara Deus:	hahahahha
+00:14:17	Tode:	Meu computador travou e meu celular entra sozinho. Perdão.
+00:17:58	Luiza Ferraz:	definitivamente mais trabalhoso do que eu esperava, ia fazer yoga e fiz só um namastê
+00:19:09	Talita Burbulhan:	kkk
+00:39:07	gabriela caesar:	tiagooo
+00:39:17	gabriela caesar:	ops, desculpe
+00:40:07	Amanda Audi:	Alguém tem o texto aí? Não tinha terminado de copiar.
+00:40:19	Lucas Thaynan:	print("Censo 2021, estilo faça-você-mesmo:")nome = input("Qual o seu nome? ")ano_nascimento = input("Em que ano você nasceu? ")
+00:40:22	Jéssica Avelar:	Nomes das variáveisVamos armazenar alguns dados do usuário em variáveis, mas lembre-se de que os nomes das variáveis possuem regras:Devem começar com letras ou "_"Podem conter letras (inclusive "especiais", com acentos), números e "_"Não podem conter espaços, nem outros caracteres como "-", "("
+00:40:28	érika yukari:	print ("Censo 2021, estilo faça-você-mesmo:")
+nome = input ("Qual seu nome?")
+ano_nascimento = input ("Em que ano você nasceu?")
+00:40:32	Amanda Audi:	Obrigada!
+00:40:41	Jamile Santana:	Mal ae tumultuar a aula
+00:40:52	érika yukari:	kkkk <3
+00:49:30	Karen Couto:	o pyton me envelheceu 😡
+00:53:03	Alessandro Feitosa Jr:	E, por mais bobo que pareça, essa foi uma dúvida que eu tive no início: ele não vai converter "dois" para "2"
+01:01:35	Jamile Santana:	Tem alguma para data?
+01:04:32	érika yukari:	esse termo altura_numerica 
+01:05:08	érika yukari:	poderia ser apenas altura né?
+01:05:16	Alessandro Feitosa Jr:	não, pois repetiria o de cima
+01:05:32	érika yukari:	entendi, obrigada Alessandro
+01:05:35	Alessandro Feitosa Jr:	é uma nova variável, uma variável que vai armazenar a conversão
+01:05:41	Alessandro Feitosa Jr:	não pode existir duas variáveis com mesmo nome
+01:11:28	Lara Deus:	me sentindo o robô Ed
+01:11:35	Luiza Ferraz:	kkkkkkkkkkk
+01:11:58	Luiza Ferraz:	me ajudou tanto com os deveres de casa
+01:21:44	Amanda Audi:	TypeError: unsupported operand type(s) for -: 'int' and 'str'
+01:21:48	Amanda Audi:	Tá aparecendo isso pra mim
+01:21:55	Jamile Santana:	Foi isso mesmo, achei aqui
+01:24:15	Jamile Santana:	Agora que reiniciei rodou certinho
+01:25:16	Amanda Audi:	Deu certo!
+01:26:41	Tiago Aguiar:	Comigo rolou isto aqui, Alvaro
+01:26:43	Tiago Aguiar:	----> 7 print(f"Você deve ter "+ {possivel_idade} + " anos.")
+
+TypeError: can only concatenate str (not "set") to str
+01:27:19	Reinaldo Chaves:	Tem que tirar a aspas antes de anos Tiago
+01:27:30	érika yukari:	TypeError: can only concatenate str (not "int") to str
+01:27:30	Tiago Aguiar:	aah
+01:31:46	érika yukari:	sim
+01:32:00	gabriela caesar:	boa, alessandro!
+01:33:25	Tode:	Sim. Tela inteira pra mim.
+01:33:40	gabriela caesar:	falta o igual
+01:33:44	gabriela caesar:	no lugar do menos
+01:36:34	gabriela caesar:	21h20
+02:07:14	Kelly:	quando a gente pede para a pessoa digitar "outro número" de 0 a 10, ela consegue digitar o mesmo da anterior? tipo... 5 e 5
+02:07:23	gabriela caesar:	sim
+02:07:40	Kelly:	valeu, Gabriela! :)
+02:07:57	Luiza Ferraz:	se eu quisesse pedir os números pares eu poderia tirar o "f" de float na 4 linha?
+02:09:01	Talita Burbulhan:	Lu, acho que o "f" não se refere a FLOAT. "f" tem a função de concatenar as palavras, pelo que entendi
+02:09:16	gabriela caesar:	isso, talita
+02:09:35	Luiza Ferraz:	ahhh certo certo
+02:13:25	gabriela caesar:	no meu colegio era 5 e depois passou para 6
+02:16:33	Jamile Santana:	A regra do tab é pra qualquer comando? Oi só if/else ?
+02:25:37	Lara Deus:	corrigi a idade dos nascidos de setembro pra frente if  int (mes_nasc) < 8:  print(2021 - int (ano_nascimento))else:  print(2020 - int (ano_nascimento))
+02:45:12	Amanda Audi:	O que significa elif?
+02:46:22	Amanda Audi:	Desculpa, ainda não entendi a diferença de elif e else
+02:46:53	Amanda Audi:	Entendi!
+02:47:09	Ingridy Silva:	O else seria "nenhuma das alternativas anteriores"
+02:57:22	Jamile Santana:	Obrigada
+03:06:32	Luiza Ferraz:	acho q seria legal sortear
+03:06:42	Renan França:	Pode ser o grupo de osint?
+03:06:51	Lara Deus:	tb acho
+03:06:56	Victor Farias:	acho ok ser o grupo de osint
+03:07:00	Lara Deus:	já que já estamos falando pra outra materia
+03:07:04	Tode:	Grupo de OSINT facilita a comunicação.
+03:07:09	gabriela caesar:	Faz um codigo de sorteio em Python \
+03:08:23	Reinaldo Chaves:	Tem que ser voto impresso!
+03:08:30	Alessandro Feitosa Jr:	hahahahah
+03:08:31	Larissa Sayuri Futino Castro Dos Santos:	hahahaha
+03:08:32	Kaluan Bernardo:	E ~auditavel!
+03:08:34	Jamile Santana:	hahahaha
+03:08:47	Juliana Ribeiro:	Voto impresso!!!😂
+03:08:56	Karen Couto:	VOTO DEMOCRÁTICO
+03:09:08	Luiza Ferraz:	voto auditavel
+03:09:27	Amanda Audi:	Não to no grupo do slack
+03:09:57	Carina Dourado:	#pensamento_computacional  Amanda
+03:10:01	Amanda Audi:	Tira o print
+03:10:03	Talita Burbulhan:	print!
+03:10:04	érika yukari:	acabei de te add amanda 
+03:10:05	Bianca Muniz:	Tira print
+03:10:13	Bianca Muniz:	ops
+03:12:46	Karen Couto:	colegas, não to no grupo da disciplina do slack
+03:12:54	Karen Couto:	help
+03:12:55	érika yukari:	vo te procura pra adicionar
+03:13:04	Karen Couto:	gracias
+03:13:19	Karen Couto:	a Schirlei tbm não tá
+03:13:34	érika yukari:	karen, aqui aparece que vc esta como membra, o nome do grupo é pensamento-computacional
+03:13:38	érika yukari:	#pensamento-computacional
+03:13:38	Luiza Ferraz:	fui colocar a schirlei mas ta dizendo q ela ta
+03:13:42	Luiza Ferraz:	(acabei de colocar a karen)
+03:13:53	Schirlei Alves:	achei aqui e entrei
+03:14:04	érika yukari:	boa
+03:14:54	Karen Couto:	valeu Luiza!!!!!!
+03:15:03	Juliana Ribeiro:	Não estou nesse grupo pensamento computacional
+03:15:19	Luiza Ferraz:	coloquei vc
+03:17:05	érika yukari:	perdão, pessoal, causei
+03:18:50	Reinaldo Chaves:	No https://eventos.congresse.me/ddadosabraji vai ter também algumas aulas sobre isso
+03:19:28	Luiza Ferraz:	ahh não vou conseguir esse ano ):
+03:20:43	gabriela caesar:	é o show do milhão
+03:20:49	Jamile Santana:	uhuahauhauha
+03:21:00	Carina Dourado:	:)
+03:21:24	Bianca Muniz:	boa noite!
+03:21:34	Jamile Santana:	Boa noite
+03:21:35	Carina Dourado:	Boa noite!!!
+03:21:37	gabriela caesar:	boa!
+03:21:39	Jéssica Avelar:	Obrigada, boa noite!
+03:21:42	Talita Burbulhan:	boa noite!

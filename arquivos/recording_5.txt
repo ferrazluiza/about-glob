@@ -1,0 +1,189 @@
+00:01:36	Jamile Santana:	Boa noite!
+00:05:23	Talita Burbulhan:	oi pessoal! boa noite :D
+00:05:39	Vinícius Marques:	Boa noite, pessoal!!
+00:06:14	Renan Cavalcante:	Boa!
+00:06:51	Alessandro Feitosa Jr:	Uma dica para o Slack para achar todos os canais: passar o mouse por cima do menu "Canais" e depois cliquem em "Explorar canais", ali vão aparecer todos
+00:08:29	Natalia:	Dentro do canal, é só ir em “settings” (configurações) e trocar para canal privado
+00:11:24	Luiza Ferraz:	tá falhando só pra mim?
+00:11:25	Natalia:	Em alguns momentos corta o som pra mim, é só pra mim?
+00:11:34	Kaluan Bernardo:	Aqui ta bom!
+00:11:45	Renan Cavalcante:	Aqui deu uma cortada também. Umas duas vezes.
+00:11:52	Carina Dourado:	Pra mim falhou rapidinho e voltou
+00:11:54	Kelly Pavan:	Aqui travou um pouquinho, também. Mas já está normal
+00:11:55	layane.serrano:	Aqui cortou tb. Duas vezes.
+00:12:02	layane.serrano:	normal tb
+00:12:10	Luiza Ferraz:	pra mim ta cortando em momentos aleatórios
+00:12:31	gabriela caesar:	massa
+00:12:40	Natalia:	Agora tá fluindo normal
+00:19:48	Érika Yukari:	tb gostaria Laiane!
+00:20:17	layane.serrano:	tô sofrendo com o meu note, rs.
+00:22:51	Érika Yukari:	eu vou trocar também, se puder compartilhar as dicas agradeço!
+00:24:24	Larissa Sayuri:	É uma ótima definição, @Kaluan
+00:28:14	Jamile Santana:	A Alexa aqui de casa já sabe a hora de colocar música pro bebê dormir hahaha
+00:38:39	gabriela caesar:	https://www.abraji.org.br/
+00:38:52	gabriela caesar:	https://escoladedados.org/
+00:39:40	gabriela caesar:	7 x 1 para o R
+00:41:48	Amanda Audi:	Pessoal, tô no aeroporto de Viracopos e a internet não tá dando conta. Não consigo ouvir vocês direito
+00:42:26	Érika Yukari:	ok, aviso aqui quando chegar seu nome e vc ve se rola
+00:42:46	Érika Yukari:	acho que vai ser a prox
+00:42:56	Amanda Audi:	Opa, valeu!
+00:43:10	Érika Yukari:	vai la 
+00:43:14	Érika Yukari:	rola?
+00:47:58	Talita Burbulhan:	está travando pra mim, pra vcs está ok?
+00:48:07	Tiago:	Pra mim tá ok
+00:48:10	Kaluan Bernardo:	aqui ta 100% msm
+00:48:12	Luiza Ferraz:	pra mim ta relativamente ok, nada demais
+00:48:23	Vinícius Marques:	Aqui está travando também
+00:48:27	Érika Yukari:	tb
+00:48:28	gabriela caesar:	aqui tb
+00:48:29	Ingridy Silva:	o som á travando
+00:48:34	Jamile Santana:	Aqui também
+00:49:08	Natalia:	Continua travando, pessoal?
+00:49:19	Kelly Pavan:	Aqui não, Natália.
+00:49:23	Ingridy Silva:	voltou normal
+00:49:32	Vinícius Marques:	Voltou ao normal
+00:49:35	Natalia:	Por aqui to ouvindo normal também
+00:49:36	Talita Burbulhan:	agora parou de travar :)
+00:49:51	Érika Yukari:	aqui só rolou 2x 
+00:49:58	Érika Yukari:	um certo atraso
+00:50:01	Érika Yukari:	coisa de microsegundo
+00:54:05	Natalia:	https://penseallen.github.io/PensePython2e/
+00:54:35	Luiza Ferraz:	tá dando 404, mas se abrir a versão da pagina salva da pra abrir ele
+00:57:02	Kaluan Bernardo:	Alvaro, cortou geral
+00:57:11	Bianca Muniz:	Álvaro, ficou mudo seu microfone
+00:57:12	Ingridy Silva:	Álvaro, seu som não está saindo.
+00:57:15	Karen Couto:	Alvaro vc está mudo
+00:57:21	Tode:	Pode ser a placa de som dele
+00:57:26	Kelly Pavan:	Álvaro, se houver programas que precisemos baixar, por exemplo, vamos ser informados com antecedência? Please!
+00:58:00	Host Insper:	vou reiniciar, só1 min
+01:03:59	gabriela caesar:	@Lara, provavelmente o GitHub vai ser legal em 2022.1 tb, quando formos aprender HTML e CSS, para subir o nosso portfólio/site pessoal de forma gratuita
+01:04:47	Natalia:	Vamos apresentar o GitHub e falar sobre métodos de documentação na minha disciplina com a Carla também, cenas dos próximos capítulos :)
+01:05:31	Reinaldo Chaves:	Ela que fez: https://www.gabrielacaesar.com/
+01:05:32	gabriela caesar:	Verdade, excelente tb!
+01:06:39	gabriela caesar:	@Reinaldo, usei template pronto, nada de HTML e CSS feito por mim hehe Mas isso ta nos planos
+01:09:40	Natalia:	E estamos planejando uns workshops com o Cuducos sobre isso, pra ajudar vocês nos projetos finais, Gabi
+01:09:53	Natalia:	Mas também mais pra frente
+01:10:02	gabriela caesar:	obrigada, tenho muito interesse
+01:10:29	Érika Yukari:	muito massa, Gabriela!
+01:10:43	Érika Yukari:	valeu por compartilhar, Reinaldo
+01:16:23	Karen Couto:	daqui a pouco começa a discussão PS4 x XBox
+01:16:30	Kelly Pavan:	hahahaha
+01:16:58	Karen Couto:	PS4, evidente, né
+01:17:30	Tode:	#TeamXbox :P
+01:23:23	Reinaldo Chaves:	É derivada do Monty Python também :)
+01:24:48	Kaluan Bernardo:	É verdade a história de que o Youtube foi criado em python?
+01:25:05	Karen Couto:	@Reinaldo Chaves jogando pesado... mas acho que boa parte da turma não vai pegar a referência
+01:26:03	Kelly Pavan:	Python é filosófico, ó!
+01:27:21	gabriela caesar:	Editor - por exemplo, Sublime; IDE - por exemplo, RStudio
+01:30:40	Natalia:	Gabi vai dar um duplo x x (R e alemão) rs
+01:34:05	Lara Deus:	o guido van rossum tem twitter haha https://twitter.com/gvanrossum
+01:34:16	Érika Yukari:	kkk
+01:40:04	gabriela caesar:	21h17 volta
+01:51:07	Reinaldo Chaves:	Gabi comendo feijoada!
+02:09:55	Bernardo Vianna:	Isso, fiquei observando de fora heheh
+02:13:12	gabriela caesar:	@Tiago, como é o nome dessa ferramenta?
+02:13:15	Tode:	É fantástico. Eu também queria muito isso, xará.
+02:13:26	Tode:	Nuzzel
+02:13:32	Alessandro Feitosa Jr:	Feedly quebra um galho
+02:13:32	Érika Yukari:	https://twitter.com/nuzzel?lang=en
+02:13:50	Lara Deus:	o feed.ly é bem bom
+02:13:57	Kaluan Bernardo:	recomendo muito o feedly e inoreader
+02:14:08	Érika Yukari:	https://feedly.com/i/welcome
+02:14:29	Tiago:	O Feedly eu lembro que baixei há uns anos e fiquei insatisfeito com o tanto de site que ele nao pegava
+02:15:19	Érika Yukari:	google reader morreu ne
+02:15:39	Alessandro Feitosa Jr:	morreu
+02:15:47	Érika Yukari:	nao
+02:15:49	Érika Yukari:	haha
+02:15:52	gabriela caesar:	normal
+02:15:53	Kaluan Bernardo:	o feedly melhorou bastante, ti!
+02:17:07	Kaluan Bernardo:	O 7c0 faz isso
+02:17:20	Carina Dourado:	Cobrar assessoria é o melhor
+02:17:45	Reinaldo Chaves:	https://projeto7c0.com.br/
+02:20:14	gabriela caesar:	https://g1.globo.com/politica/eleicoes/2020/noticia/2020/11/12/em-iniciativa-inedita-g1-publica-textos-com-resultado-da-eleicao-em-cada-uma-das-5568-cidades-do-brasil-com-auxilio-de-inteligencia-artificial.ghtml
+02:21:28	Lara Deus:	eu amo ele
+02:21:31	Lara Deus:	salva minha vida
+02:21:44	Lara Deus:	transcreve direitinho, com pontuação e tudo
+02:21:49	Lara Deus:	dá medooo até
+02:21:56	Tiago:	Seria bom algum app que já gravasse e transcrevesse ligação, sem vc precisar baixar o mp3
+02:22:06	Luiza Ferraz:	nossa total
+02:22:06	Alessandro Feitosa Jr:	eu quero aprender a fazer isso heheh
+02:22:08	gabriela caesar:	https://t.me/transcriber_bot
+02:22:11	Alessandro Feitosa Jr:	pra fazer localmente
+02:22:12	gabriela caesar:	(ta no slack tb)
+02:22:34	Kaluan Bernardo:	Tem o Google pinpoint do google pra transcrição tb
+02:22:40	Reinaldo Chaves:	@Transcriber_Bot
+02:22:48	Alessandro Feitosa Jr:	o Office 365 tbm tem uma função similar
+02:23:06	Reinaldo Chaves:	https://journaliststudio.google.com/pinpoint/about
+02:23:11	gabriela caesar:	@Reinaldo, esse aí é meu melhor amigo no trabalho
+02:23:27	isabelafleischmann:	O próprio Google Docs tem também o Voice tools, mas o Transcriber bot do Telegram funciona melhor
+02:24:04	Tiago:	Vcs sabem o quanto o bot do telegrama garante privacidade na transcrição? Isso é uma coisa que me deixa receoso com esses apps
+02:24:10	Tiago:	telegram**
+02:24:20	Carina Dourado:	é…. O do Google depende bastante da velocidade e dicção da pessoa. Tem hora que saiu tudo errado
+02:24:35	Luiza Ferraz:	ja tentei colocar um audio pra tocar e o do google não reconheceu
+02:24:38	Luiza Ferraz:	nadinha
+02:24:42	Bianca Muniz:	atualizam diariamente
+02:24:43	gabriela caesar:	Honestamente, não sei, mas é código aberto, então se tivesse alguma sacanagem alguém - tipo Turicas - iria perceber
+02:25:39	Tiago:	Eu penso mais nos termos de uso que a gente assina sem ler pra usar o telegram
+02:25:48	Tiago:	Nao quero vazajato das minhas fonte rs
+02:25:55	Carina Dourado:	ahahaha
+02:27:55	gabriela caesar:	SSP https://www.gabrielacaesar.com/2020/09/08/captura-de-dados-ssp-sp/
+02:28:11	Reinaldo Chaves:	VazaJato foi por causa da falta de autentificação dupla e porque os caras receberam ligação suspeita e aceitaram, não por falha do Telegram
+02:28:40	Jamile Santana:	Nossa Gabi, eu te amo hahahah Agora só falta eu aprender a rodar isso
+02:28:41	Natalia:	Tenho esses dados, dps posso passae
+02:28:45	Natalia:	passar*
+02:32:12	Érika Yukari:	isso eh mto chatooooooooo
+02:32:24	Alessandro Feitosa Jr:	tem o https://squoosh.app/ é muito bom. se desse pra passar as imagens nesse algoritmo antes de subir a img seria ótimo
+02:33:18	Luiza Ferraz:	esse site é pra comprimir imagem, alessandro?
+02:33:33	Alessandro Feitosa Jr:	isso
+02:33:49	Luiza Ferraz:	nossa que show, sempre tenho q dar um google ou usar o paint
+02:33:50	Alessandro Feitosa Jr:	e comprime muito bem, mantendo uma qualidade razoável
+02:34:07	Luiza Ferraz:	super obrigada
+02:34:18	Alessandro Feitosa Jr:	dá até pra redimensionar, fazer um crop muito basicao
+02:34:28	Luiza Ferraz:	show de bola
+02:34:35	Renan França:	gostei, alessandro. valeu
+02:34:48	Reinaldo Chaves:	https://dadosabertos.camara.leg.br/swagger/api.html
+02:35:15	Reinaldo Chaves:	https://legis.senado.leg.br/dadosabertos/docs/ui/index.html
+02:37:34	Reinaldo Chaves:	https://github.com/revistaazmina/elasnocongressobot/blob/master/elasnocongresso.py
+02:38:42	Reinaldo Chaves:	Elas buscam essas palavras nas proposiçõessearch_list = ["MULHER", "MULHERES", "TRABALHO DOMÉSTICO", "VIOLÊNCIA CONTRA A MULHER", "VIOLÊNCIA DOMÉSTICA", "VIOLÊNCIA DE GÊNERO", "MARIA DA PENHA", "ABORTO", "ABORTAMENTO", "INTERRUPÇÃO DE GRAVIDEZ", "INTERRUPÇÃO DE GESTAÇÃO", "DIREITO REPRODUTIVO", "DIREITOS REPRODUTIVOS", "DIREITO À VIDA", "CONCEPÇÃO", "CONTRACEPÇÃO", "CONTRACEPTIVO", ... e várias outras
+02:40:30	Érika Yukari:	ah, entendi. perfeito. obrigada!
+02:48:41	Host Insper:	https://colab.research.google.com/
+02:51:15	gabriela caesar:	o Colab pode ser legal para pessoas que trabalham presencialmente na empresa e têm limitações para mexer no Terminal tb, por exemplo
+02:51:54	Reinaldo Chaves:	Tem empresa que nem deixa instalar Python, R
+02:52:07	Alessandro Feitosa Jr:	é uma boa manter a extensão .ipynb, né?
+02:52:45	Reinaldo Chaves:	É a extensão padrão de um notebook no Colab
+02:52:59	Reinaldo Chaves:	Mas é o código Python normal
+02:55:49	Alessandro Feitosa Jr:	ficou sem som
+02:56:29	Bianca Muniz:	Álvaro, a gente não tá escutando
+02:56:48	Karen Couto:	Alvaro não está mais entre nós
+02:56:52	Érika Yukari:	motim do x
+02:58:54	Alessandro Feitosa Jr:	o X é tipo levantar a mão
+02:58:56	Alessandro Feitosa Jr:	tem que tirar
+03:04:44	isabelafleischmann:	Tem algum atalho para o play ou tem que clicar com o mouse mesmo?
+03:04:52	Alessandro Feitosa Jr:	shift + enter
+03:04:52	Natalia:	Ctrl entetr
+03:05:02	isabelafleischmann:	Obrigada
+03:05:33	Reinaldo Chaves:	Acho que só abriga Python o Colab
+03:05:58	Tiago:	Obrigado, paula
+03:07:21	Érika Yukari:	nao entendi a utilidade do notebook para texto
+03:07:48	Érika Yukari:	se o codigo nao vai ler, seria realmente uma anotacao?
+03:07:58	gabriela caesar:	sim
+03:08:02	Natalia:	É só para você documentar o processo, Érika
+03:08:04	Érika Yukari:	ah ta
+03:08:05	Érika Yukari:	rs
+03:08:10	Érika Yukari:	obrigad
+03:08:10	Alessandro Feitosa Jr:	sim, uma anotação dentro do notebook
+03:08:16	Alessandro Feitosa Jr:	anotação pro código vem com #
+03:08:25	Alessandro Feitosa Jr:	pra explicar o que aquela linha faz, por exemplo
+03:08:30	Alessandro Feitosa Jr:	mas o Álvaro vai mostrar isso
+03:09:15	Natalia:	A Érika do futuro vai agradecer a Érika de agora se ela anotar o próprio código :)
+03:09:40	Érika Yukari:	hahahaha, perfeito. ANOTADO
+03:10:28	gabriela caesar:	hahahaha
+03:17:23	Luiza Ferraz:	tem uns programas que deixam tudo coloridinho vibes arco iris
+03:17:26	Luiza Ferraz:	meu toc ama
+03:17:55	Kaluan Bernardo:	Se n tiver fundo escuro n é hacker
+03:18:11	gabriela caesar:	meus olhos agradecem fundo escuro
+03:18:19	Renan Cavalcante:	Já tava procurando como escurecer a página
+03:18:22	Alessandro Feitosa Jr:	e ainda dá um ar de hacker
+03:18:24	Luiza Ferraz:	fundo escuro é ruim no inicio mas é um caminho sem volta
+03:18:40	Bianca Muniz:	Obrigada e boa noite!
+03:18:41	Talita Burbulhan:	boa noite!

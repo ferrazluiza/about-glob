@@ -1,0 +1,123 @@
+00:13:00	Reinaldo Chaves:	Prêmio Claudio Weber Abramo
+00:27:37	Victor Farias:	e tem também as notícias relacionadas que bagunçam isso da data
+00:37:29	érika yukari:	a do spotify parece ser tb 
+00:38:46	Jamile Santana:	Professor, uma dúvida sobre a busca por grupos. Consigo regionalizar a busca?
+00:40:14	Host Insper:	https://stackoverflow.com/questions/25104876/download-public-google-spreadsheet-as-csv
+00:40:44	Host Insper:	Mariano Gallo
+00:41:40	gabriela caesar:	alguém tem o exercício e posta no slack?
+00:41:56	Host Insper:	https://docs.google.com/presentation/d/1-DvKrfUnvbAYs6T_4C26frSSROyY0uAqku47FuGlKb8/edit?usp=sharing
+00:42:16	érika yukari:	colei
+00:42:22	gabriela caesar:	<3
+00:44:36	érika yukari:	2
+00:46:45	isabelafleischmann:	O Tode está aguardando para entrar na sala, professor
+00:46:47	Karen Couto:	1. 03:56:06
+00:47:09	Alessandro Feitosa Jr:	Karen, vc tá enviando pra todos
+00:47:11	isabelafleischmann:	Entrou!
+00:47:16	Karen Couto:	sorry
+00:47:55	Amanda Audi:	Pode mostrar como chegaram nesse resultado? Eu não consegui
+00:48:01	Jamile Santana:	Eu também não vonsegui
+00:48:13	[Trybe] Renan França:	Eliud Kipchoge
+00:48:15	Kelly Pavan:	Ótimo! Errei tudo hahaha
+00:49:02	Victor Farias:	busquei: "'mariano gallo' adidas maratona" e foi o primeiro link
+00:49:17	JULIANA RIBEIRO:	Procurei pelo “mariano gallo” and Adidas
+00:49:21	Amanda Audi:	Pq docs?
+00:49:30	Alessandro Feitosa Jr:	aqui foi: "mariano gallo" maratona adidas
+00:49:48	Karen Couto:	eu usei o mesmo que o Alessandro
+00:50:25	Victor Farias:	stackoverflow salva sempre minha vida
+00:50:50	gabriela caesar:	aqui baixou direto ja
+00:51:01	Carina Dourado:	Aqui também baixou direto
+00:51:20	Victor Farias:	tmb baixou direto pra mim
+00:51:21	layane.serrano:	Tb usei o mesmo que o Alessandro e a Karen.https://pt.scribd.com/doc/242985296/Maraton-Adidas-42K-Buenos-Aires-2014-Clasificacion-v01-pdf
+00:51:33	Larissa Sayuri Futino Castro Dos Santos:	Eu tb achei em pdf
+00:51:34	gabriela caesar:	ahhh, isso, peguei no maratondebuenosaires
+00:51:37	Renan Cavalcante:	o primeiro link que apareceu pra mim veio um link já pra xls.
+00:51:41	Karen Couto:	aqui baixou um excel
+00:52:28	Amanda Audi:	isso
+00:52:44	Amanda Audi:	nao
+00:52:47	Amanda Audi:	rs
+00:54:27	gabriela caesar:	resolver os próprios erros com google e stackoverflow muda a vida
+00:54:29	Amanda Audi:	Sim sim
+00:54:30	Amanda Audi:	obrigada
+00:54:56	érika yukari:	o nome do mariano era o único entre aspas porque seria o unico termo exato que buscamos?
+00:57:34	Kelly Pavan:	Nossa, tô muito errada, porque meus resultados não fazem o menor sentido...
+00:57:38	Luiza Ferraz:	2
+01:01:28	Renan Cavalcante:	Todas
+01:01:52	Victor Farias:	eu não tô buscando filetype
+01:03:08	Kaluan Bernardo:	se alguém quiser ver a cara dela, eu achei o linkedin dela rs
+01:03:09	Kaluan Bernardo:	https://www.linkedin.com/in/ana-karla-andreatta-7b38821a9/detail/photo/
+01:03:53	erika y:	puts me perdi
+01:04:10	Sara Magalhães:	Eu também stalkei o linkedin dela, mas fiquei insegura porque não informa se essa é a profissão dela em 2021
+01:05:04	Larissa Sayuri Futino Castro Dos Santos:	@Victor
+Como vc teve tz qu eela trabalha em 2021 lá?
+01:05:16	Larissa Sayuri Futino Castro Dos Santos:	*teve ctz
+01:05:22	Victor Farias:	pesquisei isso: "ana karla andreatta" 2021 cnpj
+01:05:32	Victor Farias:	ai vi que era 2021 no cabeçalho da planilha
+01:05:40	erika y:	sim, a dúvida eh: como o pessoal que encontrou a resposta certa sem puxar pelo filetype ?
+01:05:57	erika y:	Boa
+01:06:11	Carina Dourado:	eu!
+01:06:12	Larissa Sayuri Futino Castro Dos Santos:	hmmm blz
+Eu só encontrei registros de 2019
+01:06:16	JULIANA RIBEIRO:	"ana karla andreatta" 2021
+01:06:34	Renan Cavalcante:	eu coloquei o nome e site:linkedin.com e achei a pessoa, mas o perfil tava desatualizado. Aí eu travei
+01:06:35	[Trybe] Renan França:	ana karla andreatta empresa (9º resultado)
+01:14:30	Jamile Santana:	#chateada
+01:14:54	Kelly Pavan:	TMJ, @Jamile! =(
+01:16:09	érika yukari:	"bolsonaro" before:1989-01-01 site:folha.com.br | site: folha.uol.com.br
+01:16:17	Carina Dourado:	Foi o que eu fiz, comecei a fazer a partir de 1990
+01:16:20	Carina Dourado:	E fui testando
+01:16:22	Luiza Ferraz:	eu fui chutando os anos
+01:16:25	Luiza Ferraz:	comecei por 2002
+01:16:46	Larissa Sayuri Futino Castro Dos Santos:	Eu fui procurar um jeito de ordenar
+Sem sucesso
+01:16:48	Kelly Pavan:	Esse foi! Milagrosamente!
+01:16:49	gabriela caesar:	em 88 achei no acervo
+01:17:07	érika yukari:	a gente pode usar só mês + dia 
+01:17:46	érika yukari:	ou só ano no befora?
+01:17:48	érika yukari:	before
+01:18:01	Kaluan Bernardo:	https://www1.folha.uol.com.br/fsp/1994/3/24/brasil/3.html
+01:18:30	Ingridy Silva:	Professor, para um domínio que mudou não seria hora de usar o " cache:URL: ver versão salva da página "? Pode explicar melhor quando devemos usar esse recurso?
+01:19:07	érika yukari:	falando em cache, eu tentei usar com a folha e não deu certo. =(
+01:20:01	Jamile Santana:	Também tentei usar cache, acho que por isso que não foi
+01:20:13	Alessandro Feitosa Jr:	o cache não é operador de busca
+01:23:42	érika yukari:	serve para migração de dominios
+01:23:43	érika yukari:	?
+01:23:59	érika yukari:	ok
+01:25:48	Luiza Ferraz:	eu tenho acesso ate hj desde o 14 congresso, pela palestra sobre ele
+01:27:26	Reinaldo Chaves:	Quem for associada(o) pode pedir acesso por e-mail - abraji@abraji.org.br - eles demoram alguns dias para liberar
+01:29:46	Lucas Thaynan:	É possível buscar conteúdo no Crowdtangle publicado por qualquer usuário ou só perfis verificados?
+01:32:30	érika yukari:	da para selecionar mais de uma  plataformas?
+01:32:37	érika yukari:	plataforma *
+01:32:42	érika yukari:	okk
+01:39:37	gabriela caesar:	a interface do Tweetdeck ajuda muito nisso
+01:41:21	erika y:	Pode falar de novo do segundo item?
+01:50:20	Tiago Aguiar:	Pra mim apareceram dois mengaos
+01:50:26	Luiza Ferraz:	jura?
+01:50:27	[Trybe] Renan França:	que tipo de flamenguista não escreve "Mengão"...
+01:50:34	gabriela caesar:	hahahah
+01:50:47	Luiza Ferraz:	kkkkkk
+01:50:59	Tiago Aguiar:	https://twitter.com/DepEduardoCunha/status/251154891211431936
+01:51:05	Tiago Aguiar:	https://twitter.com/DepEduardoCunha/status/166217021216919554
+01:51:22	Luiza Ferraz:	ih o meu eu devo ter colocado algo errado qnd busquei entao
+01:55:05	gabriela caesar:	ih, gente, a mulher do cunha entrou no twitter https://twitter.com/claudiacruzofi1
+01:59:42	gabriela caesar:	tem na url tb
+02:02:24	Renan Cavalcante:	cabul não rolou
+02:02:45	gabriela caesar:	no fim, eh para colocar soh o numero da distancia ou tem que colocar k ou km?
+02:03:15	gabriela caesar:	nao ta funcionando no planalto
+02:03:16	gabriela caesar:	geocode:-15.79868756526708, -47.860854733987516, 5km
+02:03:17	Juliana Ribeiro:	Descobri garotas de programa 😂
+02:03:26	Talita Burbulhan:	tira o espaço
+02:03:28	gabriela caesar:	ok
+02:03:52	Renan Cavalcante:	geocode:34.56210931336403,69.20802282362578,1km
+02:03:53	gabriela caesar:	rolou, valeu
+02:04:00	Renan Cavalcante:	Agora deu certo, Cabul. Acho que tinha deixado algum espaço
+02:04:12	érika yukari:	No results for "-23.65114938390275,-46.644860380483024,10km"
+02:04:33	gabriela caesar:	deve ser ponto ali em vez de virgula
+02:04:48	érika yukari:	ah der
+02:04:49	érika yukari:	valeu
+02:04:56	Host Insper:	geocode:-23.65114938390275,-46.644860380483024,10km
+02:06:43	Talita Burbulhan:	da pra postar as respostas desses exercícios no slack ?
+02:06:50	érika yukari:	obrigada!!
+02:06:54	gabriela caesar:	boa
+02:06:58	Talita Burbulhan:	gracias!
+02:07:03	Karen Couto:	pegar os tweets do vivendas da barra é de boas?
+02:07:14	Bianca Muniz:	Obrigada :) Boa noite!

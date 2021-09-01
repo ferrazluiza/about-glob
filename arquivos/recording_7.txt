@@ -1,0 +1,131 @@
+00:01:22	gabriela caesar:	Boa noite, pessoal
+00:01:58	Tode:	Boa noite! 😀
+00:02:01	iPhone de Layane:	Boa noite!
+00:05:46	Luiza Ferraz:	eu vi no blackboard eu acho
+00:06:05	Bianca Muniz:	tá em "plano de ensino" no blackboard
+00:06:11	Reinaldo Chaves:	Lá tem o Plano de Ensino
+00:06:49	Larissa Sayuri Futino Castro Dos Santos:	Obg @Reinaldo
+00:08:10	Kelly Pavan:	Não tenho nem FB nem Twitter =(
+00:10:24	Amanda Audi:	Pesquisou o Wagner Santiago, amei!
+00:10:46	gabriela caesar:	Hihi
+00:14:30	Érika Yukari:	gente que lindo 
+00:15:21	Amanda Audi:	Onde eu consigo acessar o ppt pra pegar os links?
+00:15:53	Talita Burbulhan:	os links estão no blackboard :)
+00:15:56	Jéssica Avelar:	No blackboard tem todos os links
+00:15:56	gabriela caesar:	isso https://insper.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_38105_1&handle=announcements_entry&mode=view
+00:16:22	Amanda Audi:	Valeu!
+00:16:32	Talita Burbulhan:	eu não conheço
+00:22:55	Reinaldo Chaves:	Em pautas muito pesadas eu também cheguei usar cartórios. Se quiser uma segurança jurídica mesmo você pode fazer uma Ata Notarial em cartório sobre a informação encontrada em determinada data e link. Esse serviço é pago
+00:23:16	Érika Yukari:	SIM, o screenchoter extension faz
+00:23:18	Érika Yukari:	essa rolagem
+00:23:29	Alessandro Feitosa Jr:	https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+00:23:30	Jamile Santana:	GoFullPage é uma extrnsão do Chrome que faz print da página inteira em JPG ou PDF
+00:23:50	gabriela caesar:	maravilhosa
+00:24:46	Alessandro Feitosa Jr:	E dá pra buscar cache:URL
+00:24:50	Alessandro Feitosa Jr:	pra ver versões mais antigas
+00:27:22	Alessandro Feitosa Jr:	Alternativa Open-Source: https://bitwarden.com/
+00:27:39	Érika Yukari:	tem o my.1password
+00:27:45	Érika Yukari:	acho que tb é pago
+00:28:00	Amanda Audi:	1password é super fácil de conseguir
+00:28:04	Érika Yukari:	legal!
+00:28:06	Tiago:	O recurso do google de salvar senhas não tem o mesmo efeito que esses apps? Ou é menos seguro?
+00:28:12	Érika Yukari:	eu uso pela empresa mas bom saber
+00:28:20	Alessandro Feitosa Jr:	Google é menos seguro
+00:29:18	Érika Yukari:	vish 
+00:29:21	Érika Yukari:	perigoso esse
+00:29:28	Érika Yukari:	pros loucos das listas
+00:30:31	Victor Farias:	https://github.com/iamadamdev/bypass-paywalls-chromeessa extensão é mt boa pra burlar sites internacionais, mas tem que habilitar modo desenvolvedor no Edge
+00:32:04	Reinaldo Chaves:	Sócios da Abraji podem usar uma versão do CrowdTangle, se tiverem dúvidas escrevam para abraji@abraji.org.br
+00:32:16	gabriela caesar:	Boa
+00:32:19	Alessandro Feitosa Jr:	Escrevendo agora mesmo heheh
+00:32:22	Alessandro Feitosa Jr:	Boa, Reinaldo
+00:32:59	Kaluan Bernardo:	É só mandar um email pedindo, Reinaldo?
+00:33:01	Tiago:	é isso mesmo, a extensão é pra geral
+00:33:03	Reinaldo Chaves:	Sim, a parte mais simples é livre
+00:33:12	Reinaldo Chaves:	Sim, se for sócio da Abraji pode mandar
+00:36:25	Lara Deus:	num contexto em que presidente bloqueia jornalistas no twitter, rola fazer um alternativo, né haha
+00:38:42	Reinaldo Chaves:	A Guide to Doxxing Yourself on the Internet: https://docs.google.com/document/d/1WleGh4D3_p7TYPhjfKRHQyMYwhZayYZayYY7AZSSzPs/edit
+00:39:41	Érika Yukari:	=)
+00:39:56	Alessandro Feitosa Jr:	show de bola esse docs
+00:41:23	Host Insper:	https://docs.google.com/presentation/d/1HbllnfRxH8M8yILV_GBeekco-RN_6NPkfrah5cZsmks/edit?usp=sharing
+01:02:40	gabriela caesar:	https://tweetdeck.twitter.com/
+01:03:13	Jamile Santana:	Dá pra fazer busca geolocalizada no Tweetdeck?
+01:03:21	Lara Deus:	dá sim!
+01:03:42	Lara Deus:	tem uma parte pra colocar coordenadas e o raio
+01:03:53	Lara Deus:	quando você cria uma busca avançada
+01:04:04	Jamile Santana:	Que demais
+01:07:09	Host Insper:	https://twitter.com/search-advanced
+01:07:17	Host Insper:	https://apps.crowdtangle.com/search
+01:07:31	Host Insper:	https://graph.tips/beta/
+01:07:47	Host Insper:	whopostedwhat.com
+01:08:35	Reinaldo Chaves:	A extrema direita tem usado o termo voto auditavel ou invés de voto impresso
+01:10:00	Érika Yukari:	https://twitter.com/LucianoHangBr/status/1424848260984983554
+01:10:30	Érika Yukari:	@reinaldo tem toda uma narrativa extensa pra argumentar o pq disso.. é cansativo
+01:11:25	Karen Couto:	Voto democrático tbm
+01:11:36	Reinaldo Chaves:	Sim, eu sei. É só para acrescentar na busca. É tudo guerra cultural no fim
+01:11:41	Érika Yukari:	https://twitter.com/PATRlOTAS/status/1424370515062448135?s=20
+01:12:21	gabriela caesar:	fraude voto, voto impresso, voto auditável, voto AND bolsonaro filter:videos since_time:1627786800 until_time:1627873199
+01:12:44	Lara Deus:	https://twitter.com/_AliadosBrasil/status/1424061727327637507
+01:14:00	Alessandro Feitosa Jr:	no Twitter:
+01:14:01	Luiza Ferraz:	voto or brasilia or auditavel
+01:14:01	Érika Yukari:	luciano hang, motociata
+01:14:02	Alessandro Feitosa Jr:	voto impresso "brasília" until:2021-08-02 since:2021-08-01
+01:14:08	Talita Burbulhan:	"voto auditável" (queremos, OR tse, OR voto, OR eleições, OR bolsonaro) since:2021-08-08
+01:14:09	Érika Yukari:	brasilia 8 de agosto
+01:14:10	Larissa Sayuri Futino Castro Dos Santos:	manifetação voto auditável
+01:14:12	Ricardo Grinbaum:	motociata brasília
+01:14:20	Carina Dourado:	Hashtags #votoimpresso #votoimpressoauditavel #votoimpressojá #bolsonarotemrazao #bolsonaro2022
+01:14:22	Ingridy Silva:	#votoimpresso #manifestcao
+01:14:32	Lara Deus:	por algumas hashtags é possível chegar a alguns perfis centrais e ver as curtidas deles
+01:15:00	Reinaldo Chaves:	volta ficha de telefone
+01:15:13	Karen Couto:	só pra mim que o áudio está estranho?
+01:15:21	Luiza Ferraz:	pra mim ta ok
+01:15:23	Carina Dourado:	Nao
+01:15:24	JULIANA RIBEIRO:	Para mim, está ok
+01:16:29	gabriela caesar:	https://www.youtube.com/watch?v=miY87dhJjig
+01:17:08	Reinaldo Chaves:	https://www.tweetbinder.com/blog/twitter-geocode/
+01:19:46	Amanda Audi:	https://www.facebook.com/watch/live/?v=832484457413912&ref=watch_permalink
+01:26:04	gabriela caesar:	muito legal esse graph tips. não conhecia
+01:32:32	Victor Farias:	represa, vale...
+01:32:46	Jamile Santana:	"desesperados"
+01:32:54	Carina Dourado:	sumiu
+01:32:59	Érika Yukari:	"tragédia"
+01:33:15	Érika Yukari:	"lamaçal"
+01:33:26	Érika Yukari:	"luto"
+01:36:37	Carina Dourado:	“Sem notícias”
+01:37:47	Luiza Ferraz:	data?
+01:38:28	Jamile Santana:	O meu também não tá indo
+01:38:54	Lara Deus:	só pq eu falei pra vocês rolou hahaha obrigada
+01:41:41	gabriela caesar:	este trabalho que fiz usou técnicas osint. a ideia era verificar se o vídeo viralizado era mesmo verdade ou se era montagem. recorri a fotos e vídeos postados nas redes sociais https://docs.google.com/presentation/d/1lNO9ojOyTF4Kg8qIgRKi2WsfQ7HXhlId90rueWMI1-s/edit?usp=sharing
+01:43:10	Érika Yukari:	eita
+01:43:26	Reinaldo Chaves:	Jeff é foda
+01:43:30	Kelly Pavan:	Gente, como eu não tenho FB (nem Twitter) eu não sei (mas vocês devem saber): há "permissões" de buscas diferentes para perfis corporativos e de pessoas físicas?
+01:44:50	Érika Yukari:	sim, há perfis fechados e abertos independende de serem de usuários identificados como empresas ou pessoas
+01:45:11	Érika Yukari:	não sei se respond
+01:45:34	Reinaldo Chaves:	Tem perfis que só amigos podem ver
+01:45:59	Kelly Pavan:	Mas os filtros e ferramentas de buscas são as mesmas, né?
+01:46:26	Kelly Pavan:	Aí, eu Kelly ou eu "empresa" conseguiremos obter os mesmos resultados nas buscas, certo?
+01:46:30	Reinaldo Chaves:	Sim, mas você não vê o conteúdo se não for amigo
+01:46:58	Kelly Pavan:	Ah, sim. Entendido! Valeu Reinaldo e Érika!
+01:47:48	Érika Yukari:	magina
+01:48:08	Lara Deus:	altas ideias aqui! amei a aula
+01:48:47	Carina Dourado:	O Snapchat ainda tá em alta fora do Brasil? (Pq aqui caiu mto, né?)
+01:49:19	Alessandro Feitosa Jr:	nos EUA tem algum mercado, mas não é muito pop não
+01:49:55	Talita Burbulhan:	essas ferramentas que são pagas são pra qual finalidade, barbara?
+01:50:23	Talita Burbulhan:	(nao precisa responder, eu procuro depois)
+01:50:48	Talita Burbulhan:	foi bem leal a aula, obrigada
+01:51:00	Talita Burbulhan:	*legal
+01:52:00	Reinaldo Chaves:	https://nucleo.jor.br/especiais/2021-02-18-telegram-extrema-direita
+01:52:55	gabriela caesar:	bem interessante
+01:53:18	gabriela caesar:	queremos
+01:53:24	JULIANA RIBEIRO:	Eu quero
+01:54:26	Kelly Pavan:	Obrigada!!!
+01:54:36	Jamile Santana:	Aula maravilhosa! Valeu!
+01:54:38	Bianca Muniz:	obrigada! :) boa noite
+01:54:43	Carina Dourado:	:)
+01:54:55	Victor Farias:	Obrigado!! Boa noite
+01:54:55	gabriela caesar:	obrigada!!
+01:55:00	Ingridy Silva:	boa noite
+01:55:05	Luiza Ferraz:	obrigada pela aula!
+01:55:06	Jéssica Avelar:	Obrigada, boa noite!
+01:55:20	JULIANA RIBEIRO:	Ótima aula

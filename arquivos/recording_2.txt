@@ -1,0 +1,42 @@
+00:18:21	Natalia Mazotte:	Uma obs:  a gente vai trabalhar na sexta com dados da vacinação
+00:19:17	Luiza Ferraz:	não levava em conta os dados precarios
+00:20:06	Natalia Mazotte:	Procv = uma função pra cruzar duas tabelas a partir de um denominador comum
+00:20:13	Natalia Mazotte:	Caso alguém não saiba
+00:21:35	Natalia Mazotte:	Vamos ver como fazer um procv logo mais com variáveis comuns de duas planilhas
+00:26:23	Victor Farias:	às vezes eles nem respondem né
+00:28:07	Carina Dourado:	É… qnd respondem
+00:39:37	Larissa Sayuri:	E um gráfico no tempo não deveria ter uma seta
+00:48:24	gabriela caesar:	https://www.nytimes.com/interactive/2016/04/01/us/police-bodycam-video.html
+00:50:23	Carina Dourado:	Alessandro, qual o nome do efeito?
+00:50:27	Alessandro Feitosa Jr:	efeito kuleshov
+00:50:32	Alessandro Feitosa Jr:	tem vídeos bem bacanas no YouTube
+00:50:39	Carina Dourado:	Bacana!
+00:52:38	Luiza Ferraz:	https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/
+00:53:21	Tiago Aguiar:	Mas a do wp não errou com as informações disponíveis na época, certo?
+00:53:25	Larissa Sayuri:	É excelente p o começo da pandemia, não?
+00:53:35	Érika Yukari:	acredito que foi sim
+00:54:00	Alessandro Feitosa Jr:	https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+00:55:04	Érika Yukari:	https://projects.fivethirtyeight.com/p-hacking/
+00:57:32	Jamile Santana:	https://www.leiaogazeta.com.br/para-cada-infectado-pela-covid-19-alto-tiete-vacinou-cerca-de-4-pessoas-contra-a-doenca/
+01:32:31	Victor Farias:	os municípios
+01:39:44	Érika Yukari:	https://medium.com/@NataliaMazotte/sou-uma-cientista-de-dados-c%C3%A9tica-quanto-aos-dados-664e4f9b00e6?source=user_profile---------4----------------------------
+01:44:41	Victor Farias:	tem uma coisa super boba que sempre dava problema comigo que era a diferença do número em inglês e em português
+01:45:18	gabriela caesar:	por causa da vírgula, né? sempre acontece!
+01:45:36	Victor Farias:	simmm, a diferença da vírgula e do ponto
+01:54:20	gabriela caesar:	link da apresentação para baixar os dados: https://docs.google.com/presentation/d/e/2PACX-1vTOUk6XmH09KV2fONRAsNSAlzJg5xmDFmCE2YbWCF7JfkZDldIS_GOrr0Ej6bbJjRM7QPn_oxRBjv6B/pub?start=false&loop=false&delayms=3000&slide=id.ge55ad8ab7a_2_497
+01:59:04	Talita Burbulhan:	Obrigada Gabriela :)
+02:05:58	gabriela caesar:	1) relação percentual de eventos femininos x eventos masculinos
+02:06:43	gabriela caesar:	2) ver qual continente teve mais olimpíadas, o que exigiria criar nova coluna
+02:07:40	gabriela caesar:	3) quando não foi obedecido o intervalo de 4 anos e se houve em algum momento um intervalo maior; se, depois, aumentou os eventos
+02:08:43	gabriela caesar:	4) quais países mais foram sede das olimpíadas
+02:11:39	gabriela caesar:	5) verificar se o número de eventos femininos aumenta à medida que o número de nocs tb aumenta - Alessandro
+02:29:42	Érika Yukari:	como faz pra replicar a formula para as linhas abaixo?
+02:30:08	gabriela caesar:	clica na bolinha que fica no canto inferior direito da célula
+02:30:11	Luiza Ferraz:	passa o mouse para o canto inferior direito da célula e da duplo clique no quadrado
+02:30:18	Luiza Ferraz:	opa
+02:33:43	Pedro Burgos:	É isso: a Olimpíada foi em Melbourne, e as 6 categorias equestres foram na Suécia.
+02:34:01	Alessandro Feitosa Jr:	tá em parentese na célula (equestre)
+02:35:39	Luiza Ferraz:	faria diferença fazer a operação inversa?
+02:41:34	Larissa Sayuri:	Podemos ver a evolução do número de eventos em relação à edição anterior.
+Em geral, o número de eventos cresce a cada edição. Mas será que tem algum ano em que esse crescimento foi mais expressivo?
+03:08:34	Pedro Burgos:	Boa noite, gente!

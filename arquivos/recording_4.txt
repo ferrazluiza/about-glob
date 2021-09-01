@@ -1,0 +1,88 @@
+00:11:11	Meyrele Torres:	Boa noite!
+00:11:53	gabriela caesar:	Boa noite!
+00:14:02	gabriela caesar:	@Renan, seu áudio ta ligado
+00:14:31	[Trybe] Renan França:	valeu, @gabriela. desculpa, pessoal
+00:14:44	gabriela caesar:	imagina :)
+00:21:29	Ingridy Silva:	8767 0581
+00:36:43	gabriela caesar:	https://repositorio.enap.gov.br/handle/1/6039
+00:38:18	Jamile Santana:	Obrigada Gabi!
+00:40:23	Talita Burbulhan:	Boa Gabi, obrigada!
+00:43:00	Alessandro Feitosa Jr:	https://coronavirus.jhu.edu/map.html
+00:55:33	gabriela caesar:	https://www.washingtonpost.com/graphics/2020/world/iran-coronavirus-outbreak-graves/
+00:56:47	Renan Cavalcante:	faixa de pedestre, parquímetro, semafóros
+00:56:51	isabelafleischmann:	Carros autônomos
+00:57:23	Jamile Santana:	SKYNET feelings
+00:58:50	Reinaldo Chaves:	https://www.deathbycaptcha.com/
+01:11:18	Larissa Sayuri:	Adoro esse exemplo
+01:15:22	gabriela caesar:	https://www.amazon.com.br/How-Charts-Lie-Getting-Information/dp/1324001569
+01:15:42	Érika :	fico mudo só aqui?
+01:15:50	Talita Burbulhan:	aqui normal
+01:15:50	gabriela caesar:	aqui ta normal
+01:15:51	Alessandro Feitosa Jr:	aqui tá normal
+01:15:52	Luiza Ferraz:	aqui ta normal
+01:15:55	Ingridy Silva:	normal
+01:15:55	Larissa Sayuri:	Estou com áudio
+01:15:55	Érika :	volto
+01:15:57	Érika :	obg
+01:17:45	Reinaldo Chaves:	https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map
+01:20:28	Prof. André Filipe:	https://www.geospatialrevolution.psu.edu/
+01:31:10	gabriela caesar:	https://dadosabertos.camara.leg.br/
+02:01:12	gabriela caesar:	o livro do Hans tb foi citado na aula do Burgos https://www.amazon.com.br/Factfulness-h%C3%A1bito-libertador-opini%C3%B5es-baseadas/dp/8501116521
+02:01:19	gabriela caesar:	é excelente
+02:06:54	gabriela caesar:	https://www.gapminder.org/dollar-street
+02:08:10	Jamile Santana:	Que maravilhoso isso
+02:08:32	gabriela caesar:	maravilhooos
+02:08:44	Érika :	demais.
+02:08:45	Carina Dourado:	Lindo, emocionante
+02:09:38	Érika :	ninguem escalou o projeto pra territorios menores?
+02:10:10	Érika :	por ex. estados de uma nacao específica 
+02:10:26	Jamile Santana:	Super dá pra reproduzir né.
+02:10:36	Érika :	sim, mto massa a ideia
+02:11:01	Érika :	bacurau feelings
+02:12:30	Carina Dourado:	Já virando fã do Hans
+02:12:44	gabriela caesar:	o livro é muito bom, vale demais
+02:13:01	gabriela caesar:	ele morou em vários lugares do mundo, era médico, deu aula da suécia
+02:14:40	Jamile Santana:	Nossa, esse trabalho é muito lindo.
+02:15:06	Carina Dourado:	Gabi, o livro é o do link que vc colocou? "Factfulness: O hábito libertador de só ter opiniões baseadas em fatos”
+02:15:29	gabriela caesar:	isso, essa é a tradução do livro dele
+02:15:40	Carina Dourado:	Bacana!
+02:21:13	Reinaldo Chaves:	http://www.metro.sp.gov.br/pesquisa-od/
+02:21:35	Jamile Santana:	Tem esse projeto peruano que acho maravilhoso também chamado Quipu. Eles abriram um canal telefônico para coletar testemunhos de homens e mulheres que foram esterilizados num Programa de Planejamento Familiar do governo, de forma compulsória. A maioria são indígenas ou moradores de áreas isoladas. https://interactive.quipu-project.com/#/es/quipu/listen/53?currentTime=11.14&view=thread
+02:25:19	Érika :	https://insider-h2020.sckcen.be/#overall-strategy-1
+02:25:57	Larissa Sayuri:	o complementar
+02:35:04	gabriela caesar:	https://insper.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_38104_1&content_id=_895201_1
+02:37:53	Prof. André Filipe:	Link do docs —> https://docs.google.com/document/d/1zg95Nx1E5-DzYiw9cQbapARY2sEpFw93M02ulmq-jWg/edit?usp=sharing
+02:38:02	Lucas Thaynan:	Alguém pode compartilhar os arquivos aqui? As disciplinas não tão aparecendo pra mim no Blackboard
+02:38:34	Jamile Santana:	https://docs.google.com/spreadsheets/d/1MmuM6NZMu0p8gVlP24E_LBDA_xbPAFoCaU9SFZZB5o8/edit?usp=sharing
+02:39:00	Lucas Thaynan:	Obrigado, Jamile!
+02:41:53	Lucas Thaynan:	Obrigado, Natalia!
+02:50:00	Lara Deus:	esse dado POP também não varia, não entendi a que ele se refere
+02:51:10	Érika :	eh populacao
+02:51:57	Érika :	No dicionario ta assim, Lara
+
+- Incorporated (less than 2500)
+2 - Incorporated (2500 - 10000)
+3 - Incorporated (10000 - 25000)
+4 - Incorporated (25000 - 50000)
+5 - Incorporated (50000 - 100000)
+6 - Incorporated (100000 - 250000)
+7 - Incorporated (over 250000)
+9 - Unincorporated (Rural)
+0 - University (Private Property)
+-  - Not Stated
+02:52:01	Érika :	por isso n varia 
+02:52:07	Lara Deus:	sim, mas população de onde? isso que não entendi
+02:52:16	Lara Deus:	do distrito, do município naquele dia...
+02:52:17	Érika :	acho que da cidade dos acidente
+02:54:58	Érika :	chutando, uma média do condado pq pra cidade seria mto pouco
+02:55:15	Érika :	entre 2005 e 2013
+03:04:10	Reinaldo Chaves:	http://www.thebillionpricesproject.com/
+03:04:37	Renan França:	Paper: https://www.hbs.edu/ris/Publication%20Files/Cavallo_Alberto_J6_Are%20Online%20and%20Offline%20Prices%20Similar_2a1a63af-8938-4680-bb23-a850324b096a.pdf
+03:04:55	gabriela caesar:	politica
+03:05:27	gabriela caesar:	obrigada!
+03:05:33	Bianca Muniz:	Obrigada! E boa noite
+03:05:34	Alessandro Feitosa Jr:	valeu, professor. boa noite
+03:05:38	Talita Burbulhan:	foi muito boa a aula
+03:05:41	gabriela caesar:	boa noite!
+03:05:43	gabriela caesar:	otima aula
+03:05:44	Renan Cavalcante:	boa noite!

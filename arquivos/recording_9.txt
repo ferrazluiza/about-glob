@@ -1,0 +1,62 @@
+00:04:02	gabriela caesar:	boa noite
+00:39:26	Lucas Thaynan:	Compartilha o link da matéria, Gabriela
+00:40:05	gabriela caesar:	https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/#/
+00:40:36	Juliana Ribeiro:	Parabéns, Gabriela!
+00:40:46	Lucas Thaynan:	Muito legal!
+00:40:48	gabriela caesar:	Obrigada :)
+00:40:57	Schirlei Alves:	muito bom, Gabriela! arrasou
+00:41:03	Victor Farias:	arrasa demais!!
+00:41:06	Larissa Sayuri:	a-ha-zou @Gabriela!
+00:41:14	isabelafleischmann:	Muito bom!
+00:41:38	Ingridy Silva:	Parabéns, Gabriela!!!
+00:44:50	layane.serrano:	Muito bom, Gabi! Parabéns!
+00:46:02	gabriela caesar:	:)
+01:00:29	Prof. André Filipe:	esteganografia
+01:00:29	Reinaldo Chaves:	http://elvisherlan.blogspot.com/2010/05/tecnica-de-esteganografia.html
+01:00:33	erika :	https://www1.folha.uol.com.br/fsp/cotidian/ff1003200801.htm
+01:02:08	Prof. André Filipe:	Citizen Science
+01:09:31	Kelly Pavan:	O duro, Larissa, é que quando se trata de uso de redes sociais, essas outras fontes tipo "citizen science", eu fico bem "com pé atrás" de até chamar de "ciência"... Sei lá... Com um N menor, talvez a "confiabilidade do resultado" seja menor também... Então... Eu acho meio "sem sentido" publicar, sabe? Porque aí parece que qualquer estudo com 10, 15 pessoas a gente já pode publicar (desde que mencionando o "p" menor e a metodologia). Eu sou meio "crica" com estatísticas rs
+01:10:00	erika :	https://imapi.org/
+01:16:07	Reinaldo Chaves:	No Fórum de Jornalismo de Dados tem um debate sobre isso: https://forum.jornalismodedados.org/t/legislacao-sobre-raspagem-de-dados/307/2
+01:16:50	Jamile Santana:	EITa
+01:19:58	Reinaldo Chaves:	https://www.uol.com.br/tilt/noticias/redacao/2021/01/20/tratecov-app-sugere-tendencia-para-tratamento-precoce-de-covid-19.htm
+01:47:23	Lara Deus:	tem a ver com progressão aritmética, e a razão com progressão geométrica?
+01:48:49	Larissa Sayuri:	Aquela escala (Lickert): 
+discordo totalmente, discordo parcialmente, indiferente, concordo parcialmente e concordo totalmente
+É um exemplo bem legal tb de var. qualitativa ordinal
+01:49:07	Larissa Sayuri:	tipo de questionário
+01:49:14	Larissa Sayuri:	ou escolaridade
+01:58:57	Lara Deus:	isso é clusterizar?
+02:00:06	Reinaldo Chaves:	Moda é bom para pegar rachadinha
+02:01:09	Larissa Sayuri:	Moda tb não é legal de usar quando os dados são contínuos... aqueles que assumem casas decimais
+02:04:02	erika :	sendo as de 100 mil as mais comuns 
+02:05:21	Alessandro Feitosa Jr:	Bairro do Zoom tem casas de R$ 100 mil a R$ 2 milhões; maioria está na faixa mais barata
+02:05:26	Alessandro Feitosa Jr:	minha manchete hahah
+02:08:31	Luiza Ferraz:	mas vai diminuir pouco também né
+02:11:28	Talita Burbulhan:	Que dado vc já teve acesso que era simétrico, André?
+02:28:02	Larissa Sayuri:	Tem alguns boxplots que colocam a média ou a moda como um * para ajudar a caracterizar os dados
+02:28:11	Luiza Ferraz:	isso é aquilo que vc falou de tirar 1 quartil e 99?
+02:31:09	Larissa Sayuri:	a minha experiência é que ninguém entende boxplot
+02:31:17	Luiza Ferraz:	kkkkk
+02:31:24	Luiza Ferraz:	eu não entenderia
+02:31:32	Larissa Sayuri:	normal
+02:31:39	Lara Deus:	até 10 minutos atrás eu via isso em pesquisa acadêmica e achava que era uma seringa kkkk
+02:31:58	gabriela caesar:	kkkkkk
+02:38:40	Kaluan Bernardo:	No jornalismo, normalmente a pauta ta nos outliers ne
+02:40:14	Carina Dourado:	Ufa ahha
+02:50:53	gabriela caesar:	a CGU fez uma análise de dados bem legal com R no começo da pandemia https://github.com/rodrigoeloy/CGU
+02:52:27	gabriela caesar:	aqui o site oficial https://landpage.cgu.gov.br/painelcovid/aquisicoes2.html
+02:53:45	Larissa Sayuri:	Existe um conceito de Coeficiente de Variação também
+Ele torna desvios comparáveis para além da dimensão da variável
+02:55:28	Luiza Ferraz:	esse 1, 2 e 3 é o que exatamente nesse grafico?
+02:55:50	Luiza Ferraz:	ah não, digo de desvio padrão!
+02:55:53	Luiza Ferraz:	desculpa
+03:03:43	gabriela caesar:	muito obrigada! boa noite!
+03:03:46	Luiza Ferraz:	obrigada pela aula!
+03:03:54	Juliana Ribeiro:	Boa noite!
+03:03:56	Jamile Santana:	Muito obrigada professor!
+03:04:00	Ingridy Silva:	Obrigada, professor!
+03:04:00	Alessandro Feitosa Jr:	valeu, professor!
+03:04:03	Bianca Muniz:	boa noite
+03:04:03	layane.serrano:	Aula muito boa, professor!
+03:04:04	Jéssica Avelar:	Muito obrigada, boa noite

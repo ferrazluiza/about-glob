@@ -1,0 +1,77 @@
+00:05:51	Carina Dourado:	Olá, boa noite!
+00:17:31	gabriela caesar:	Boa noite, pessoal!
+00:26:43	gabriela caesar:	https://www.netflix.com/br/title/81031373  Don't F**K with Cats: Hunting An Internet Killer
+00:27:26	Talita Burbulhan:	Valeu Gabi, vou botar lá no slack, beleza?
+00:27:46	Barbara Marcolini:	ja salvei essa serie no favoritos!!
+00:28:37	gabriela caesar:	opa, acabei de colocar no slack ;)
+00:28:49	gabriela caesar:	meu, essa série é sensacional!!!!
+00:28:53	layane.serrano:	Valeu pela recomendação, Gabi.
+00:36:32	Reinaldo Chaves:	https://www.pycursos.com/python-para-zumbis/
+00:39:10	isabelafleischmann:	Recebi notificação do Blackboard pelo celular apenas
+00:39:46	Juliana Ribeiro:	Recebi o aviso
+00:41:58	gabriela caesar:	quando fiz o curso do First Draft no início de 2019, eu reuni estes links: https://gabrielacaesar.github.io/contra-as-fake-news/
+00:42:02	Barbara Marcolini:	https://www.bellingcat.com/
+00:42:59	Reinaldo Chaves:	O Giancarlo Fiorella do Bellingcat vai estar no Congresso da Abraji este ano
+00:50:39	Luiza Ferraz:	tem que clicar pra compartilhar com audio
+00:50:59	Luiza Ferraz:	(quando for compartilhar a tela)
+01:12:59	Jamile Santana:	https://www.amazon.com.br/American-Kingpin-Criminal-Mastermind-Behind/dp/1591848148
+01:13:34	Kaluan Bernardo:	(tem o filme dessa historia no prime video)
+01:13:47	gabriela caesar:	qual nome, kaluan?
+01:13:58	Luiza Ferraz:	opa!
+01:14:04	[Trybe] Renan França:	https://www.primevideo.com/detail/Silk-Road/0OSFZN9A4HN76PT7BCABXY6GG8
+01:14:13	Luiza Ferraz:	valeu, renan
+01:14:15	gabriela caesar:	obrigada
+01:16:41	Lara Deus:	o que muda no BR com a lei de stalking?
+01:16:48	Alessandro Feitosa Jr:	tem mais a ver com LGPD
+01:17:10	Kaluan Bernardo:	Um agregador muito mais rudimentar assim no Brasil seria o Escavador
+01:17:33	gabriela caesar:	no Brasil há sites com consulta por CPF/nome, mas a LGPD ta dificultando (só empresa pode ter cadastro agora) e exige login. exemplo: https://www.checktudo.com.br/
+01:18:03	Lara Deus:	entendi! valeu
+01:18:34	Reinaldo Chaves:	LGPD já atrapalha o jornalismo...
+01:18:35	Jamile Santana:	Tem o "Tudo sobre Todos" também, mas depois da LGPD eles também limitaram o acesso https://www.tudosobretodos.info/quemSomos
+01:18:55	Alessandro Feitosa Jr:	Esses sites são mega questionáveis
+01:19:29	Lara Deus:	acho que os telemarketings da vida têm mais dados sobre nós do que esses agregadores haha
+01:19:49	Victor Farias:	Tem o NATT também, né, mas é pago
+01:20:17	Jamile Santana:	https://cruzagrafos.abraji.org.br/conteudo/pagina-inicial/
+01:20:53	Kaluan Bernardo:	E temos todos os dados vazados do Serasa correndo na Sta Ifigenia tb rss
+01:21:39	gabriela caesar:	hahaha sim
+01:25:13	Barbara Marcolini:	https://docs.google.com/presentation/d/1lEegZQASm6GN8XwV9KIGrGf7UWiSedUPpQ6PxNuTkuU/edit?usp=sharing
+01:25:34	Barbara Marcolini:	1 - BBC: Investigação revela terras protegidas da Amazônia à venda no Facebook
+2 - NYT: Video Shows Ukrainian Plane Being Hit Over Iran
+3 - NYT: Brumadinho: uma gigantesca onda de lama
+4 - NYT: Russia Bombed Four Syrian Hospitals. We Have Proof.
+5 - Metrópoles: Registros mostram 400 filhas pensionistas de militares como sócias de empresas milionárias
+6 - DFR Lab: Facebook removes inauthentic network linked to Bolsonaro allies
+01:25:43	Guilherme Felitti:	1 - https://www.bbc.com/portuguese/brasil-56148670
+01:25:48	Guilherme Felitti:	2 - https://www.nytimes.com/2020/01/09/video/iran-plane-missile.html
+01:25:53	Guilherme Felitti:	3 - https://www.nytimes.com/pt/interactive/2019/02/20/world/americas/barragem-brumadinho-rompimento-brasil.html
+01:25:58	Guilherme Felitti:	4 - https://www.nytimes.com/video/world/middleeast/100000005697485/russia-bombed-syrian-hospitals.html
+01:26:02	Guilherme Felitti:	5 - https://www.metropoles.com/brasil/registros-mostram-400-filhas-pensionistas-de-militares-como-socias-de-empresas-milionarias
+01:26:07	Guilherme Felitti:	6 - https://medium.com/dfrlab/facebook-removes-inauthentic-network-linked-to-bolsonaro-allies-5927b0ae750d
+01:45:41	Alessandro Feitosa Jr:	Tem um pessoal que é fissurado em flagrar avião. Chamam de Plane Spotting
+01:48:18	Reinaldo Chaves:	No RJ: https://fogocruzado.org.br/
+01:48:35	Reinaldo Chaves:	E em PE
+01:51:09	Luiza Ferraz:	boa, erika
+01:52:25	Ingridy Silva:	https://fiquemsabendo.com.br/
+01:52:52	Reinaldo Chaves:	https://brasil.io/dataset/socios-brasil/socios/
+01:53:47	Jamile Santana:	https://cocozap.datalabe.org/
+01:54:18	Victor Farias:	acho que até o waze é osint
+01:55:34	Jamile Santana:	Aqui um mapa que fiz na minha cidade com uma base alimentada por um veterinário sobre aparecimento de animais silvestres em áreas urbanas https://uploads.knightlab.com/storymapjs/8200fd78f3f26443a4f6beb48d6f2290/animais-silvestres-mogi/draft.html
+01:55:52	Alessandro Feitosa Jr:	Esse /r é bem legal: https://www.reddit.com/r/dataisbeautiful/
+01:55:57	Alessandro Feitosa Jr:	eu lembro do Strava aparecer nele
+01:56:21	gabriela caesar:	muito legal, jamile!
+01:56:33	Jamile Santana:	Nem sabia que era OSINT hahaha Chique
+01:56:48	Barbara Marcolini:	https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases
+01:57:31	gabriela caesar:	editando agora o linkedin para incluir OSINT
+02:01:04	Érika Yukari:	eu nao entrei ainda no slack, 
+02:01:08	Érika Yukari:	estao todos lá ja?
+02:01:27	Natalia:	Link do convite para o slack: https://join.slack.com/t/jornalismoinsper/shared_invite/zt-tlmxe99v-hk7kyweg4ByFagGgmV6Syw
+02:01:50	Schirlei Alves:	Esse material da aula vai ficar disponível no blackboard?
+02:01:56	Érika Yukari:	eu entrei porem nao recebi convite pra grpo
+02:01:58	Érika Yukari:	grupos
+02:02:16	Natalia:	O link do convite foi postado no aviso da primeira semana, Erika
+02:02:25	Érika Yukari:	show
+02:02:36	Guilherme Felitti:	a Natalia acabou de mandar ali em cima, Érika!
+02:02:50	Juliana Ribeiro:	Não tenho grupo, pessoal!
+02:04:04	Alessandro Feitosa Jr:	Tchau, valeu Felitti, Bárbara
+02:04:08	Talita Burbulhan:	obrigada
+02:04:08	gabriela caesar:	prazer!

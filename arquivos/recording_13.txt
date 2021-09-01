@@ -1,0 +1,113 @@
+00:10:21	Renan Cavalcante:	Um dia eu chego lá
+00:11:33	Reinaldo Chaves:	Nem chegou em pandas ainda
+00:14:06	gabriela caesar:	ele disse que vai apresentar hoje
+00:28:38	Reinaldo Chaves:	parece o hexágono do R :)
+00:31:48	gabriela caesar:	livro mais recomendado da pós, gente. leiam
+00:32:14	Talita Burbulhan:	eu comprei, to amando. DICA: amanha tem book Friday na amazon
+00:33:23	Talita Burbulhan:	*black friday
+00:33:39	Luiza Ferraz:	é book Friday mesmo hahaha
+00:33:40	Carina Dourado:	Ôpa! Valeu, Talita!
+00:33:48	Luiza Ferraz:	pelo menos eu tinha visto hj com esse nome em uma materia
+00:34:07	Kaluan Bernardo:	Uma crença que continua sendo propagada sobre crescimento assim é em relação à Lei de Moore
+00:35:14	Amanda Audi:	Qual o nome do livro mesmo?
+00:35:22	Prof. Andre Filipe:	Factfulness
+00:35:26	Amanda Audi:	Obrigada!
+00:36:51	Prof. Andre Filipe:	https://trymito.io
+00:37:21	erika y:	Rindo de nervoso
+00:39:36	Reinaldo Chaves:	O símbolo é uma picanha
+00:39:51	Jamile Santana:	Que simpático hahaha
+00:42:02	Luiza Ferraz:	o meu não termina de carregar
+00:42:16	Jéssica Avelar:	O meu também ta carregando ainda
+00:42:20	Luiza Ferraz:	foi só falar
+00:45:12	Carina Dourado:	Achei que era amendoim
+00:46:52	Larissa Sayuri Futino Castro Dos Santos:	Eu tb vi amendoim @Carina
+00:47:13	erika y. :	vai no menu acima
+00:47:33	Luiza Ferraz:	em todas as abas?
+00:48:19	Karen Couto:	Eu vi os bonequinhos do "dumb ways to die"
+00:50:15	Alessandro Feitosa Jr:	parece que sempre é o último quarto rs
+00:55:13	Bianca Muniz:	existe um limite de linhas
+00:55:16	Bianca Muniz:	?
+00:55:26	Victor Farias:	Eu to em choque com esse negócio. Muito legal
+00:56:08	Ingridy Silva:	Muito legal mesmo! Super útil
+00:57:23	gabriela caesar:	toda aula do prof Andre tem pelo menos uma dica fantástica
+00:57:35	Carina Dourado:	Pois é!
+00:58:17	Lucas Thaynan:	Adorei essa função Merge 😃
+00:59:47	Reinaldo Chaves:	https://pypi.org/project/dtale/
+01:03:41	Prof. Andre Filipe:	https://github.com/man-group/dtale
+01:04:56	Talita Burbulhan:	o merge do mito é tipo o join do sql?
+01:05:20	gabriela caesar:	isso
+01:05:30	Talita Burbulhan:	gracias :D
+01:07:24	Jamile Santana:	Dá pra fazer limpeza de dados nessa ferramenta? Ou é mais pra análise?
+01:11:49	Amanda Audi:	Isso é para fazer pelo Blackboard?
+01:12:09	Prof. Andre Filipe:	Link do mural https://app.mural.co/t/datascience8216/m/datascience8216/1628717806052/73934dc4452e10a426afa4d606f5c34270a9b77d?sender=andrefmb2890
+01:13:56	Luiza Ferraz:	a gente sai p intervalo q hrs?
+01:14:22	Carina Dourado:	20h55, Luiza
+01:14:28	Luiza Ferraz:	brigada, carina!
+01:14:36	Carina Dourado:	Volta 21h10
+01:49:46	Larissa Sayuri Futino Castro Dos Santos:	Pessoal
+Alguém me manda o link dessa tela dos post its?
+01:49:56	Talita Burbulhan:	https://app.mural.co/t/datascience8216/m/datascience8216/1628717806052/73934dc4452e10a426afa4d606f5c34270a9b77d?sender=ca547a95-56d2-4240-a503-760121e5666a
+01:50:00	Larissa Sayuri Futino Castro Dos Santos:	obg
+01:50:16	Luiza Ferraz:	noh
+01:50:18	Luiza Ferraz:	onde tava isso?
+01:50:54	Talita Burbulhan:	o professor mandou aqui no chat, lu
+01:51:05	Luiza Ferraz:	:O passei direto
+01:53:32	Bianca Muniz:	gostei da ferramenta!
+01:53:52	Carina Dourado:	Também achei muito legal
+02:03:41	Prof. Andre Filipe:	http://colab.research.google.com
+02:04:18	gabriela caesar:	isso!
+02:04:34	Talita Burbulhan:	André, quando vc fala de tabulação está se referindo a conceitos como "tidy data"?
+02:08:01	Luiza Ferraz:	gente, perdi como importa
+02:08:03	Luiza Ferraz:	):
+02:08:17	Luiza Ferraz:	beleza!
+02:08:39	Larissa Sayuri Futino Castro Dos Santos:	Deu certo, @Luiza?
+02:08:46	Luiza Ferraz:	acho que sim hahaha
+02:08:50	Larissa Sayuri Futino Castro Dos Santos:	No canto esq tem um ícone de upload
+02:08:53	Larissa Sayuri Futino Castro Dos Santos:	blz
+02:09:13	Luiza Ferraz:	brigada *-*
+02:15:34	erika y. :	muito obrigada!
+02:15:42	gabriela caesar:	pessoal, subam os códigos no GitHub de vcs depois (exercício da Carla precisa criar uma conta lá) para vcs se lembrar do que ja fizeram, reaproveitarem os códigos etc
+02:15:53	gabriela caesar:	lembrarem, hehe
+02:15:56	Alessandro Feitosa Jr:	boa, gabi
+02:16:00	erika y. :	boa, Gabi
+02:16:01	Alessandro Feitosa Jr:	vou fazer isso
+02:16:04	erika y. :	valeu
+02:21:11	Lara Deus:	ele diferencia maiúsculas e minúsculas, né
+02:21:18	Lara Deus:	tentei com minúscula e não foi
+02:21:41	gabriela caesar:	Sim, diferencia, acho que acento tb
+02:21:52	gabriela caesar:	mas você pode padronizar a coluna tb
+02:23:54	Larissa Sayuri Futino Castro Dos Santos:	numa implementação mais eficiente tb, talvez
+02:37:16	gabriela caesar:	https://altair-viz.github.io/
+02:45:09	Lara Deus:	como faz pra ele rotular os dados se passamos o mouse?
+02:45:54	Jamile Santana:	Meu Deus, professor. Onde você estava escondido?
+02:56:46	gabriela caesar:	<3
+02:57:16	gabriela caesar:	Começando petição para mantermos o Andre todo trimestre
+02:57:23	Jamile Santana:	Nossa, sim! hahahaha
+02:57:38	Lucas Thaynan:	tem meu voto!
+02:57:46	Victor Farias:	voto com a relatora
+02:58:41	Bianca Muniz:	uau
+02:59:47	Juliana Ribeiro:	Acompanho o voto da relatora
+03:00:24	Talita Burbulhan:	VEGA é um estilo de linguagem da internet, assim como o HTML e CSS?
+03:00:36	Jamile Santana:	professor ,você pode deixar o código para baixar as tabelas a partir dos recortes escrito ai também, por favor?
+03:00:50	Renan Cavalcante:	Eu tava achando que o código era CSS. Não tenho certeza
+03:01:00	gabriela caesar:	parecia JS
+03:04:34	Reinaldo Chaves:	ggplot no R?
+03:05:23	Jamile Santana:	Obrigada <3
+03:06:56	Karen Couto:	normal se sentir humilhada?!
+03:07:02	Karen Couto:	hahhahahahahha
+03:07:57	Alessandro Feitosa Jr:	foi muito legal
+03:08:05	gabriela caesar:	excelente!
+03:08:06	Jéssica Avelar:	Muito obrigada!
+03:08:23	gabriela caesar:	empoderadora e desafiadora
+03:08:27	Victor Farias:	Muito obrigado, professor!!
+03:08:44	Alessandro Feitosa Jr:	<3
+03:09:10	Layane Serrano:	Arrasou, professor. Muito obrigada!
+03:09:18	Bianca Muniz:	obrigada! adorei
+03:09:31	Schirlei Alves:	muito bom! Obrigada!
+03:09:50	Carina Dourado:	:)
+03:09:52	Kaluan Bernardo:	Muito obrigado! Foi ótima!
+03:09:58	Larissa Sayuri Futino Castro Dos Santos:	Nunca vi tanta gente animada com um conjunto de dados!
+03:10:03	Jéssica Avelar:	Boa noite
+03:10:08	gabriela caesar:	boa noite! obrigada!
+03:10:10	Tode:	Até mais!
+03:10:11	erika y:	obrigada !
